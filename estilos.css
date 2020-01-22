@@ -1,0 +1,15 @@
+*{
+  margin:  0;
+  padding: 0;
+}
+body{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ h1{
+   margin: 10vh;
+ }
+div{
+  height: 10px;
+  background-color: red;
+}
