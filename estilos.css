@@ -9,7 +9,24 @@ body{
  h1{
    margin: 10vh;
  }
-div{
-  height: 10px;
+ .conteiner{
+   margin: 20px;
+border: 2px solid #DDD;
+ }
+.linea{
+  height: 30px;
   background-color: red;
+  display: flex;
+  margin: 5px;
+  justify-content: center;
+}
+.linea p{
+
+}
+.titulo{
+line-height: 2em;
+}
+.texto{
+margin: 10px;
+
 }
