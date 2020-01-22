@@ -8,8 +8,11 @@ body{
 }
  h1{
    margin: 10vh;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
  }
-div{
-  height: 10px;
+ .footer{
+  height: 50px;
   background-color: red;
+  margin: 20px;
+ 
 }
