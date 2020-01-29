@@ -32,12 +32,10 @@ border: 2px solid #DDD;
   height: 30px;
   background-color: red;
   display: flex;
-  margin: 5px;
+  margin: 0px;
   justify-content: center;
 }
-.linea p{
 
-}
 .titulo{
 line-height: 2em;
 }
