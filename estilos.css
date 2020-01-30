@@ -29,11 +29,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a1dbf2', end
 border: 2px solid #DDD;
  }
 .linea{
-  height: 30px;
-  background-color: red;
+  height: 60px;
+  background-color: blue;
   display: flex;
   margin: 0px;
   justify-content: center;
+  text-align: center;
+ color: white;
 }
 
 .titulo{
