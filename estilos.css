@@ -6,7 +6,7 @@ body{
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
 }
- 
+
  .cabecera{
 /*    background begins */
 background: rgba(161,219,242,1);
@@ -23,6 +23,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a1dbf2', end
    margin: 0;
    height: 100%;
    padding-bottom: 15px;
+   display: flex;
+    align-content: center;
+ }
+
+  .icon_top{
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   color: blanchedalmond;
+   background-color: black;
+   height: 100px;
+   width: 100px;
  }
  .conteiner{
    margin: 20px;
