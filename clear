@@ -1,0 +1,83 @@
+[33mcommit 50fbce1a973b52f5b91d800d208271b9c2d8ce09[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Carlos Duque <ang_carlos@hotmail.com>
+Date:   Wed Jan 29 10:38:16 2020 -0600
+
+    una vercion del super blog
+
+[33mcommit 5006939d3bbb37d22e9525645556c5b0f85ad95c[m
+Merge: c9ad89c 0fdca0c
+Author: Carlos Duque <ang_carlos@hotmail.com>
+Date:   Wed Jan 29 10:32:27 2020 -0600
+
+    Merge branch 'master' of github.com:Charlysxl99/superblog
+    combinando el repositorio de git con mi compu creo
+
+[33mcommit c9ad89ca1253658f5a446a2272ad68a7006a32a7[m
+Author: Carlos Duque <ang_carlos@hotmail.com>
+Date:   Wed Jan 29 10:31:34 2020 -0600
+
+    despues de que cree la clave
+
+[33mcommit 0fdca0ce27bb7a240021b853942c881e0b9f12e4[m
+Author: Carlos Duque <59456426+Charlysxl99@users.noreply.github.com>
+Date:   Wed Jan 22 10:11:47 2020 -0600
+
+    cambie un texto
+    
+    por que puedo
+
+[33mcommit 8afaec73a26c9a834b49b89d836b6d9974a11830[m
+Merge: 20fed5d b6e5f44
+Author: Carlos Duque <ang_carlos@hotmail.com>
+Date:   Wed Jan 22 09:48:49 2020 -0600
+
+    Merge branch 'master' of https://github.com/Charlysxl99/superblog
+
+[33mcommit b6e5f4437caf9858566f6a8c6acc9d628a58af47[m
+Author: Charlysxl99 <59456426+Charlysxl99@users.noreply.github.com>
+Date:   Wed Jan 22 09:34:20 2020 -0600
+
+    Initial commit
+
+[33mcommit 20fed5db2b6738ab8805e85887ee0ea04301c8de[m
+Merge: 224c474 ff8775c
+Author: Carlos Duque <ang_carlos@hotmail.com>
+Date:   Wed Jan 22 08:33:09 2020 -0600
+
+    Merge branch 'cabecera' se le creo mergue a la cabecera con el cuerpo
+
+[33mcommit 224c47434158ea730c40762f8ba48d822dd4570d[m
+Author: Carlos Duque <ang_carlos@hotmail.com>
+Date:   Wed Jan 22 00:38:00 2020 -0600
+
+    agregado el cuerpo del super blogpost
+
+[33mcommit ff8775ceedb742d7857d6dc13d9aa4c33f7946e3[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: Carlos Duque <ang_carlos@hotmail.com>
+Date:   Wed Jan 22 00:31:09 2020 -0600
+
+    Finalizada la cabecera
+
+[33mcommit 6693f81f2fd4c3ce6afefb9a1233392e3375599b[m
+Author: Carlos Duque <ang_carlos@hotmail.com>
+Date:   Tue Jan 21 23:57:25 2020 -0600
+
+    estructura de la cabecera
+
+[33mcommit 7d067644c634e904ca9d85af21f7f8de0c2c4535[m
+Author: Carlos Duque <ang_carlos@hotmail.com>
+Date:   Tue Jan 21 21:50:23 2020 -0600
+
+     cambio de maestria muahaha pero es pro
+
+[33mcommit f4e850c3f32f611ec6b53fc53da6438349e52d24[m
+Author: Carlos Duque <ang_carlos@hotmail.com>
+Date:   Tue Jan 21 21:47:09 2020 -0600
+
+    arranco mi blogpost con html y css
+
+[33mcommit b87036ab5adad4346ffd80e9f0e45cd173563fe5[m
+Author: Charlysxl99 <ang_carlos@hotmail.com>
+Date:   Tue Jan 21 20:48:33 2020 -0600
+
+    Este es el primer commit de este archivo
